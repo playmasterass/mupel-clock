@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mupel Clock</string>
+    <string name="action_settings">Settings</string>
+    <string name="timer">Timer</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="clock">Clock</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="lap">Lap</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_amoled">AMOLED</string>
+    <string name="vibration">Vibration</string>
+    <string name="time_format_24h">24-Hour Format</string>
+    <string name="keep_screen_awake">Keep Screen Awake</string>
+    <string name="alarm_sound">Alarm Sound</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permission_overlay">Overlay Permission</string>
+    <string name="permission_notification">Notification Permission</string>
+</resources>
