@@ -1,0 +1,60 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Build outputs
+app/build/
+*.o
+*.so
+
+# Local development
+local.properties
+gradle.properties
+
+# IDE
+.vscode/
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Testing
+report.xml
+*.log
+*.trace
+
+# OS
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Kotlin
+kotlin-build/
+.kotlin_module
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.asc
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
